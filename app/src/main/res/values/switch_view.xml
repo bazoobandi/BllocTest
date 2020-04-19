@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SwitchView">
+        <attr
+            name="colorOff"
+            format="color"/>
+
+        <attr
+            name="colorOn"
+            format="color"/>
+
+        <attr
+            name="colorBorder"
+            format="color"/>
+
+        <attr name="on"
+            format="boolean"/>
+    </declare-styleable>
+</resources>
